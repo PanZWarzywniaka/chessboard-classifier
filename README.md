@@ -1,4 +1,4 @@
-# Chessboard Diagram classifier
+# Chessboard Diagram Classifier
 
 
 - [1. Introduction](#1-introduction)
